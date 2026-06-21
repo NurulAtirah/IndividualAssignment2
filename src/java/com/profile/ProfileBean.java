@@ -1,5 +1,4 @@
 package com.profile;
-
 import java.io.Serializable;
 
 public class ProfileBean implements Serializable {
